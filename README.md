@@ -1,2 +1,2 @@
 # Hackerrank-Python-Programs
-Solutions Of All Hackerrank problems Of Python
+Solutions Of All Hackerrank Problems Of Python
